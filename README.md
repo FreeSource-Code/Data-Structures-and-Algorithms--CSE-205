@@ -6,7 +6,7 @@ This repository contains code, notes, and learning resources for the **CSE-205: 
 
 ## 📚 Course Content
 
-- <a href="">✅ Introduction to Data Structures</a>
+- <a href="https://github.com/FreeSource-Code/Data-Structures-and-Algorithms--CSE-205/blob/main/Introduction/into.md">✅ Introduction to Data Structures</a>
 - ✅ Arrays and Strings
 - ✅ Linked Lists (Singly, Doubly, Circular)
 - ✅ Stacks and Queues
